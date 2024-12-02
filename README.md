@@ -13,6 +13,7 @@ their skills, explore new programming concepts, and have fun while coding.
 ## 🚀 Purpose of this Repository
 
 This repository is part of a structured learning experience to:
+
 - Enhance programming problem-solving skills
 - Practice algorithmic thinking
 - Explore different approaches to solving computational challenges
@@ -25,6 +26,7 @@ This repository is part of a structured learning experience to:
 ## 📋 Getting Started
 
 ### Repository Structure
+
 ```
 aoc/
 │
@@ -39,7 +41,7 @@ aoc/
 
 ## 🛠 How to Participate
 
-1. **Copy this repository** (click *"Use this template"* or *fork* the
+1. **Copy this repository** (click _"Use this template"_ or _fork_ the
    repository)
 2. **Clone the copied repository**
    ```bash
@@ -50,6 +52,7 @@ aoc/
      Python, Java, Rust, etc.)
    - Create a folder for each day's solution (e.g., `day01`, `day02`, etc.)
 4. **Commit and Push**
+
    ```bash
    git add .          # to add all changes files
    git add ./src/dayX # to add a specific day
@@ -62,11 +65,10 @@ aoc/
 
 ### Personal Information (TODO)
 
-- **Programming Language**: [Python/JavaScript/Rust/etc.]
-- **Year**: [Current Year]
-- **Total Stars Collected**: [Total Stars]
+- **Programming Language**: [java]
+- **Year**: 2
+- **Total Stars Collected**: 2
 - **Favorite Challenge**: [Day X]
-> To be fille in by the participant...
 
 ## 🔗 Useful Resources
 
@@ -80,7 +82,7 @@ Use the checklist below to track your daily challenges:
 <details>
 <summary>My progress so far...</summary>
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
